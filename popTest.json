@@ -1,0 +1,5102 @@
+{
+    "individual0": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual1": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            }
+        }
+    },
+    "individual10": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual11": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            }
+        }
+    },
+    "individual12": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual13": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "individual14": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual15": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            }
+        }
+    },
+    "individual16": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual17": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual18": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual19": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            }
+        }
+    },
+    "individual2": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual20": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual21": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            }
+        }
+    },
+    "individual22": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual23": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            }
+        }
+    },
+    "individual24": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual25": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual26": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual27": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            }
+        }
+    },
+    "individual28": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual29": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "individual3": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            }
+        }
+    },
+    "individual30": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual31": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            }
+        }
+    },
+    "individual32": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual33": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual34": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual35": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            }
+        }
+    },
+    "individual36": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            }
+        }
+    },
+    "individual37": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        }
+    },
+    "individual38": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual39": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            }
+        }
+    },
+    "individual4": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual40": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            }
+        }
+    },
+    "individual41": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            }
+        }
+    },
+    "individual42": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual43": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            }
+        }
+    },
+    "individual44": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            }
+        }
+    },
+    "individual45": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "individual46": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual47": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            }
+        }
+    },
+    "individual48": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            }
+        }
+    },
+    "individual49": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual5": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            }
+        }
+    },
+    "individual6": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual7": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 0,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene6": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 2,
+                "base3": 0
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 2,
+                "base3": 1
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene4": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 0
+            }
+        }
+    },
+    "individual8": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 1,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene5": {
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            }
+        }
+    },
+    "individual9": {
+        "chromosome0": {
+            "gene0": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene2": {
+                "base0": 2,
+                "base1": 1,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene3": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 3
+            },
+            "gene4": {
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 1,
+                "base1": 0,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene7": {
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 3
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene1": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene2": {
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene3": {
+                "base0": 0,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene4": {
+                "base0": 3,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene5": {
+                "base0": 0,
+                "base1": 3,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene6": {
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene7": {
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            }
+        }
+    }
+}
