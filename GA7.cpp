@@ -1,13 +1,15 @@
 #include <iostream>
 #include <string>
+#include <nlohmann/json.hpp>
+#include <iomanip>
+#include <fstream>
 #include "creators.h"
 #include "simSettings.h"
 #include "mutators.h"
 #include "parsers.h"
 #include "constructors.h"
-#include <nlohmann/json.hpp>
-#include <iomanip>
-#include <fstream>
+#include "expression.h"
+
 
 int main()
 {
@@ -48,22 +50,51 @@ int main()
     ////arrGene = &gene[0];
     //nlohmann::json jsonGene(constructJson(&gene[0]));
 
-    std::ofstream l("geneTest.json");
-    l << std::setw(4) << constructGeneJson() << std::endl;
+    //std::ofstream l("geneTest.json");
+    //l << std::setw(4) << constructGeneJson() << std::endl;
 
-    std::ofstream m("chromosomeTest.json");
-    m << std::setw(4) << constructChromosomeJson() << std::endl;
+    //std::ofstream m("chromosomeTest.json");
+    //m << std::setw(4) << constructChromosomeJson() << std::endl;
 
     std::ofstream n("individualTest.json");
-    n << std::setw(4) << constructIndividualJson() << std::endl;
+    //nlohmann::json j(constructIndividualJson());
+    nlohmann::json individual(geneExpression(constructIndividualJson()));
+    n << std::setw(4) << individual << std::endl;
 
-    std::ofstream o("individualExtTest.json");
-    o << std::setw(4) << constructIndividualExtJson() << std::endl;
+    //std::ofstream o("individualExtTest.json");
+    //o << std::setw(4) << constructIndividualExtJson() << std::endl;
 
-    std::ofstream p("populationTest.json");
-    p << std::setw(4) << constructPopulationJson() << std::endl;
+    //std::ofstream p("populationTest.json");
+    //p << std::setw(4) << constructPopulationJson() << std::endl;
 
-    std::cout << 
+    //std::cout << "Expression Test Values (x = 0):\n";
+    //for (int i = 0; i < 10; ++i)
+    //{
+    //    int x(0);
+    //    std::cout << i << ": " << expressionValue(x) << "\n";;
+    //}
+
+    //std::cout << "Expression Test Values (x = 1):\n";
+    //for (int i = 0; i < 10; ++i)
+    //{
+    //    int x(1);
+    //    std::cout << i << ": " << expressionValue(x) << "\n";;
+    //}
+
+    //std::cout << "Expression Test Values (x = 2):\n";
+    //for (int i = 0; i < 10; ++i)
+    //{
+    //    int x(2);
+    //    std::cout << i << ": " << expressionValue(x) << "\n";
+    //}
+
+    //std::cout << "Expression Test Values (x = 3):\n";
+    //for (int i = 0; i < 10; ++i)
+    //{
+    //    int x(3);
+    //    std::cout << i << ": " << expressionValue(x) << "\n";
+    //}
+    
 
     //std::ofstream o("geneTest.json");
     //o << std::setw(4) << jsonGene << std::endl;

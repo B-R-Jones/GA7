@@ -1,2 +1,12 @@
-﻿  GA7.cpp
+﻿  simSettings.cpp
+C:\Users\brent\source\repos\GA7\simSettings.cpp(134,22): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\brent\source\repos\GA7\simSettings.cpp(140,12): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
   GA7.vcxproj -> C:\Users\brent\source\repos\GA7\Debug\GA7.exe

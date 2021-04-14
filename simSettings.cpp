@@ -96,6 +96,12 @@ int getGenerationSize()
 	return static_cast<const int>(generationSize);
 }
 
+int cycleCount{ 10 };
+int getCycleCount()
+{
+	return static_cast<const int>(cycleCount);
+}
+
 
 
 

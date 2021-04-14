@@ -33,13 +33,20 @@ nlohmann::json constructChromosomeJson()
 nlohmann::json constructIndividualJson()
 {
     nlohmann::json individual;
-    for (int i = 0; i < getChromosomeCount(); ++i)
+    for (int chromosomeCount = 0; chromosomeCount < getChromosomeCount(); ++chromosomeCount)
     {
-        for (int j = 0; j < getGeneCount(); ++j)
+        for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
         {
-            for (int k = 0; k < getBaseCount(); ++k)
+            for (int baseCount = 0; baseCount < getBaseCount(); ++baseCount)
             {
-                individual["chromosome" + std::to_string(i)]["gene" + std::to_string(j)]["base" + std::to_string(k)] = createBase();
+                individual["chromosome" + std::to_string(chromosomeCount)]["gene" + std::to_string(geneCount)]["base" + std::to_string(baseCount)] = createBase();
+                if (chromosomeCount == 0)
+                {
+                    individual["chromosome" + std::to_string(chromosomeCount)]["gene" + std::to_string(geneCount)]["Activated"] = true;
+                } else if (chromosomeCount == 1)
+                {
+                    individual["chromosome" + std::to_string(chromosomeCount)]["gene" + std::to_string(geneCount)]["Accumulation"] = 0.0;
+                }
             }
         }
     }

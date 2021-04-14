@@ -33,7 +33,7 @@
     <ClCompile Include="constructors.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Expression.cpp">
+    <ClCompile Include="expression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -59,7 +59,7 @@
     <ClInclude Include="constructors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Expression.h">
+    <ClInclude Include="expression.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
