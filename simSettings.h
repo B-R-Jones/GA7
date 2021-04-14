@@ -15,6 +15,7 @@ int getStrandLength();
 //int getIndividualCount();
 //void setInitialGenerationSize();
 int getGenerationSize();
+int getCycleCount();
 
 
 // Time management methods below; these do not have manual set options
