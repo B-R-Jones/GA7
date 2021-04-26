@@ -84,7 +84,7 @@ void setStrandLength()
 //}
 
 // return generation vector elements here
-int generationSize{ 1 };
+int generationSize{ 10 };
 //void setInitialGenerationSize()
 //{
 //	//std::vector<std::string> generationVector(50);
