@@ -1,0 +1,1182 @@
+{
+    "cycle0": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 1.26,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 3.3,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 2.8,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 0.94,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 3.18,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 2.32,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 3.13,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 2.6,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle1": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 3.22,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 6.41,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 5.46,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 1.72,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 5.78,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 5.6,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 5.98,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 5.62,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle2": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 4.91,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 9.85,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 7.62,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 2.64,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 9.02,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 8.54,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 9.05,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 7.61,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle3": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 6.63,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 13.02,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 10.73,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 3.56,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 11.66,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 11.35,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 12.23,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 10.02,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle4": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 8.57,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 16.3,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 13.62,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 4.61,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 14.36,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 13.73,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 14.34,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 12.32,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle5": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 10.27,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 19.32,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 15.93,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 5.05,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 17.03,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 16.51,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 16.71,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 15.21,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle6": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 11.95,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 22.47,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 18.67,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 5.85,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 20.22,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 19.57,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 19.71,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 17.69,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle7": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 13.54,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 26.08,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 21.39,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 6.88,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 23.39,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 22.12,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 22.43,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 20.19,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle8": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 14.72,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 29.17,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 24.2,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 7.69,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 26.21,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 24.77,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 25.6,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 23.04,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    },
+    "cycle9": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 0,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 1,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 1,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 3,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 1,
+                "base2": 2,
+                "base3": 2
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 16.51,
+                "base0": 2,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Accumulation": 32.87,
+                "base0": 0,
+                "base1": 1,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 27.42,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 1
+            },
+            "gene3": {
+                "Accumulation": 8.64,
+                "base0": 0,
+                "base1": 0,
+                "base2": 1,
+                "base3": 0
+            },
+            "gene4": {
+                "Accumulation": 28.9,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene5": {
+                "Accumulation": 27.61,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene6": {
+                "Accumulation": 28.13,
+                "base0": 2,
+                "base1": 2,
+                "base2": 2,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 25.0,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 0
+            }
+        }
+    }
+}

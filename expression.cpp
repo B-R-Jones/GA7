@@ -28,30 +28,37 @@ double expressionValue(int base)
 	return x;
 }
 
-nlohmann::json geneExpression(nlohmann::json individual)
+nlohmann::json geneExpression(nlohmann::json& individual)
 {
-	for (int cycleCount = 0; cycleCount < getCycleCount(); ++cycleCount)
-	{
 		for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
 		{
-			//double acc(0);
 			double acc(individual["chromosome1"]["gene" + std::to_string(geneCount)]["Accumulation"]);
 			for (int baseCount = 0; baseCount < getBaseCount(); ++baseCount)
 			{
-				//std::cout << "Test: " << individual["chromosome0"]["gene" + std::to_string(geneCount)]["Activated"] << "\n";
 				int base(0);
 				if (individual["chromosome0"]["gene" + std::to_string(geneCount)]["Activated"] == true)
 				{
 					base = individual["chromosome1"]["gene" + std::to_string(geneCount)]["base" + std::to_string(baseCount)];
-					//individual["chromosome1"]["gene" + std::to_string(geneCount)]["Accumulation"] = individual["chromosome1"]["gene" + std::to_string(geneCount)]["Accumulation"] + expressionValue(individual["chromosome1"]["gene" + std::to_string(geneCount)]["base" + std::to_string(baseCount)]);
 					acc = acc + expressionValue(base);
 					acc = std::round(acc * 100.0) / 100.0;
 				}
 			}
-			//individual["chromosome1"]["gene" + std::to_string(geneCount)].erase("Accumulation");
 			individual["chromosome1"]["gene" + std::to_string(geneCount)]["Accumulation"] = acc;
-			//std::cout << "Expressed: " << individual["chromosome1"]["gene0"]["Accumulation"] << "\n";
 		}
-	}
 	return individual;
+}
+
+nlohmann::json cyclePass(nlohmann::json& pop)
+{
+	nlohmann::json history;
+
+	for (int cycleCount = 0; cycleCount < getCycleCount(); cycleCount++)
+	{
+		for (int indCount = 0; indCount < getGenerationSize(); indCount++)
+			if (cycleCount > 0)
+			{
+				pop["cycle" + std::to_string(cycleCount)]["individual" + std::to_string(indCount)] = geneExpression(pop["cycle" + std::to_string(cycleCount - 1)]["individual" + std::to_string(indCount)]);
+			}
+	}
+	return pop;
 }

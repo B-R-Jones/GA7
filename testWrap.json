@@ -1,0 +1,120 @@
+{
+    "testRun": {
+        "chromosome0": {
+            "gene0": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 0,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene1": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 2,
+                "base2": 2,
+                "base3": 2
+            },
+            "gene2": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 1
+            },
+            "gene3": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 2,
+                "base2": 0,
+                "base3": 0
+            },
+            "gene4": {
+                "Activated": true,
+                "base0": 0,
+                "base1": 0,
+                "base2": 3,
+                "base3": 2
+            },
+            "gene5": {
+                "Activated": true,
+                "base0": 1,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene6": {
+                "Activated": true,
+                "base0": 2,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene7": {
+                "Activated": true,
+                "base0": 3,
+                "base1": 2,
+                "base2": 1,
+                "base3": 1
+            }
+        },
+        "chromosome1": {
+            "gene0": {
+                "Accumulation": 0.0,
+                "base0": 3,
+                "base1": 3,
+                "base2": 0,
+                "base3": 3
+            },
+            "gene1": {
+                "Accumulation": 0.0,
+                "base0": 1,
+                "base1": 0,
+                "base2": 2,
+                "base3": 3
+            },
+            "gene2": {
+                "Accumulation": 0.0,
+                "base0": 0,
+                "base1": 2,
+                "base2": 3,
+                "base3": 3
+            },
+            "gene3": {
+                "Accumulation": 0.0,
+                "base0": 2,
+                "base1": 0,
+                "base2": 1,
+                "base3": 1
+            },
+            "gene4": {
+                "Accumulation": 0.0,
+                "base0": 2,
+                "base1": 2,
+                "base2": 1,
+                "base3": 2
+            },
+            "gene5": {
+                "Accumulation": 0.0,
+                "base0": 2,
+                "base1": 2,
+                "base2": 0,
+                "base3": 2
+            },
+            "gene6": {
+                "Accumulation": 0.0,
+                "base0": 2,
+                "base1": 3,
+                "base2": 3,
+                "base3": 0
+            },
+            "gene7": {
+                "Accumulation": 0.0,
+                "base0": 3,
+                "base1": 3,
+                "base2": 2,
+                "base3": 3
+            }
+        }
+    }
+}
