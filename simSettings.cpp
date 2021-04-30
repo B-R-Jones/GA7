@@ -65,6 +65,37 @@ bool setChromosomeCount(unsigned char newChromosomeCount)
 	return false;
 }
 
+int chromLoc{ 0 };
+int getChromLoc()
+{
+	return chromLoc;
+}
+
+void resetChromLoc()
+{
+	chromLoc = 0;
+}
+
+int checkChromLoc()
+{
+	if (chromLoc > 1)
+	{
+		resetChromLoc();
+		return -1;
+	}
+	return chromLoc;
+}
+
+void updateChromLoc()
+{
+	chromLoc++;
+}
+
+void setChromLoc(int chromLocOverride)
+{
+	chromLoc = chromLocOverride;
+}
+
 //int strandLength{ 64 };
 int strandLength{ getChromosomeCount() * getGeneCount() * getBaseCount() };
 int getStrandLength()

@@ -16,28 +16,30 @@ int main()
     std::cout << "GA7 Simulation v0.0\n";
     std::cout << "Setting random seed via time differential...\n";
     setTime();
- 
-    std::cout << "Mutation rate currently set to: " << getMutationRate() << "% \n";
-
-    std::cout << "Mutation rate now set to: " << getMutationRate() << "% \n";
-    std::cout << "Generic individual integrity creation test: " << createIndividual() << "\n";
-
-    nlohmann::json pop;
-    for (int popCount = 0; popCount < getGenerationSize(); popCount++)
+    std::cout << "Generic Integrity Tests:\n";
+    nlohmann::json test_dump;
+    for (int i = 0; i < 4; i++)
     {
-        pop["cycle0"]["individual" + std::to_string(popCount)] = constructIndividualJson();
+        switch (i)
+        {
+        case 0:
+            test_dump = constructBaseJson(0);
+            break;
+        case 1:
+            test_dump = constructGeneJson();
+            break;
+        case 2:
+            test_dump = constructChromosomeJson();
+            break;
+        case 3:
+            test_dump = constructIndividualJson();
+            break;
+        }
+        std::cout << "\nDumping test...\n" << test_dump.dump();
     }
-    std::ofstream popStart("popStart.json");
-    popStart << std::setw(4) << pop << std::endl;
-
-    cyclePass(pop);
-
-    std::ofstream popEnd("popEnd.json");
-    popEnd << std::setw(4) << pop << std::endl;
-
-    std::ofstream n("individualTest.json");
-    nlohmann::json j(constructIndividualJson());
-    nlohmann::json output(cyclePass(j));
-    n << std::setw(4) << output << std::endl;
+    std::cout << "Creating base population test file...\n";
+    nlohmann::json test(constructPopulationJson());
+    std::ofstream testFeed("population.json");
+    testFeed << std::setw(4) << test << std::endl;
 }
 
