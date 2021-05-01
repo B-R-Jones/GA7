@@ -28,7 +28,29 @@ double expressionValue(int base)
 	return x;
 }
 
-nlohmann::json geneExpression(nlohmann::json& individual)
+nlohmann::json geneExpression(nlohmann::json individual)
+{
+	for (int chromCount = 0; chromCount < getChromosomeCount(); ++chromCount)
+	{
+		for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
+		{
+			double score{ 0.0 };
+			for (int baseCount = 0; baseCount < getBaseCount(); ++baseCount)
+			{
+				//nlohmann::json score = individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"];
+				//nlohmann::json val = individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["bases"].at(baseCount);
+				score = score + expressionValue(individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["bases"].at(baseCount)["baseValue"]);
+				//std::cout << score << "\n";
+			}
+			individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"].update(score);
+			std::cout << individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"] << "\n";
+			//individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"].update(score);
+		}
+	}
+	return individual;
+}
+
+nlohmann::json geneExpressionOld(nlohmann::json& individual)
 {
 		for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
 		{
@@ -52,13 +74,13 @@ nlohmann::json cyclePass(nlohmann::json& pop)
 {
 	nlohmann::json history;
 
-	for (int cycleCount = 0; cycleCount < getCycleCount(); cycleCount++)
-	{
-		for (int indCount = 0; indCount < getGenerationSize(); indCount++)
-			if (cycleCount > 0)
-			{
-				pop["cycle" + std::to_string(cycleCount)]["individual" + std::to_string(indCount)] = geneExpression(pop["cycle" + std::to_string(cycleCount - 1)]["individual" + std::to_string(indCount)]);
-			}
-	}
+	//for (int cycleCount = 0; cycleCount < getCycleCount(); cycleCount++)
+	//{
+	//	for (int indCount = 0; indCount < getGenerationSize(); indCount++)
+	//		if (cycleCount > 0)
+	//		{
+	//			pop["cycle" + std::to_string(cycleCount)]["individual" + std::to_string(indCount)] = geneExpression(pop["cycle" + std::to_string(cycleCount - 1)]["individual" + std::to_string(indCount)]);
+	//		}
+	//}
 	return pop;
 }

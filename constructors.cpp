@@ -22,18 +22,21 @@ nlohmann::json constructGeneJson(int geneID = 0)
 {
     nlohmann::json gene;
     gene["id"] = geneID;
-    for (int baseID = 0; baseID < getBaseCount(); baseID++)
+    for (int baseID = 0; baseID < getBaseCount(); ++baseID)
     {
         gene["bases"].push_back(constructBaseJson(baseID));
+        gene["score"] = 0.0;
 
     }
     if (checkChromLoc() == 0)
     {
         gene["activated"] = true;
+        //gene["activate_score"];
     }
     else if (checkChromLoc() == 1)
     {
         gene["accumulation"] = 0.0;
+        //gene["accumulation_score"];
     }
 
     return gene;
@@ -43,7 +46,7 @@ nlohmann::json constructChromosomeJson(int chromID = -1)
 {
     nlohmann::json chromosome;
     chromosome["id"] = chromID;
-    for (int geneID = 0; geneID < getGeneCount(); geneID++)
+    for (int geneID = 0; geneID < getGeneCount(); ++geneID)
     {
         chromosome["genes"].push_back(constructGeneJson(geneID));
     }
@@ -54,7 +57,7 @@ nlohmann::json constructIndividualJson(int indID = 0)
 {
     nlohmann::json individual;
     individual["id"] = indID;
-    for (int chromID = 0; chromID < getChromosomeCount(); chromID++)
+    for (int chromID = 0; chromID < getChromosomeCount(); ++chromID)
     {
         setChromLoc(chromID);
         individual["chromosomes"].push_back(constructChromosomeJson(chromID));
@@ -65,7 +68,7 @@ nlohmann::json constructIndividualJson(int indID = 0)
 nlohmann::json constructPopulationJson()
 {
     nlohmann::json population;
-    for (int indID = 0; indID < getGenerationSize(); indID++)
+    for (int indID = 0; indID < getGenerationSize(); ++indID)
     {
         population["individuals"].push_back(constructIndividualJson(indID));
     }

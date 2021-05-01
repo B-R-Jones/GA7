@@ -41,5 +41,12 @@ int main()
     nlohmann::json test(constructPopulationJson());
     std::ofstream testFeed("population.json");
     testFeed << std::setw(4) << test << std::endl;
+
+    std::cout << "Expression test...\n";
+    nlohmann::json ind(constructIndividualJson());
+    geneExpression(ind);
+
+    std::ofstream indFeed("individual_expression_test.json");
+    indFeed << std::setw(4) << test << std::endl;
 }
 
