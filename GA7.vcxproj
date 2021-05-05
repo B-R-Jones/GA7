@@ -140,10 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="base_class.cpp" />
     <ClCompile Include="constructors.cpp" />
     <ClCompile Include="creators.cpp" />
     <ClCompile Include="expression.cpp" />
     <ClCompile Include="GA7.cpp" />
+    <ClCompile Include="gene_class.cpp" />
     <ClCompile Include="parsers.cpp" />
     <ClCompile Include="simSettings.cpp" />
     <ClCompile Include="mutators.cpp" />

@@ -9,7 +9,7 @@
 int baseCount{ 4 };
 int getBaseCount()
 {
-	return static_cast<const int>(baseCount);
+	return baseCount;
 }
 bool setBaseCount(unsigned char newBaseCount)
 {

@@ -3,7 +3,7 @@
 
 // Creation management methods below; each can be called individually
 // Set options should be an advanced option only
-int getBaseCount();
+const int getBaseCount();
 bool setBaseCount(unsigned char x);
 int getGeneCount();
 int getGeneLength();
