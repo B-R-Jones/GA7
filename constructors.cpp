@@ -5,11 +5,10 @@
 #include <sstream>
 #include <nlohmann/json.hpp>
 #include "simSettings.h"
-#include "creators.h"
+//#include "creators.h"
 #include "expression.h"
 #include "constructors.h"
 
-//using nlohmann::json;
 nlohmann::json constructBaseJson(int baseID, int baseCount)
 {
     if (baseCount < 1)
@@ -19,7 +18,8 @@ nlohmann::json constructBaseJson(int baseID, int baseCount)
     }
     nlohmann::json base;
     base["id"] = baseID;
-    base["baseValue"] = createBase();
+    //base["baseValue"] = createBase();
+    base["baseValue"] = rand() % getBaseCount();
     return base;
 }
 
@@ -35,7 +35,7 @@ nlohmann::json constructGeneJson(int geneID)
     }
     if (checkChromLoc() == 0)
     {
-        gene["activated"] = true;
+        gene["activated"] = false;
     }
     else if (checkChromLoc() == 1)
     {
@@ -94,7 +94,6 @@ nlohmann::json constructCycleJson(nlohmann::json& pop, int cycleID)
 
 nlohmann::json runCycles(nlohmann::json& pop)
 {
-    //nlohmann::nlohmann::json pop;
     nlohmann::json cycles;
     for (int cycleID = 0; cycleID < getCycleCount(); ++cycleID)
     {
@@ -103,11 +102,3 @@ nlohmann::json runCycles(nlohmann::json& pop)
     }
     return cycles;
 }
-
-//nlohmann::json constructGenJson(nlohmann::json& pop, int genID = 0)
-//{
-//    //nlohmann::json generation;
-//    //generation["id"] = genID;
-//    //generation["id"].at(genID)["cycles"].push_back(runCycles(pop));
-//    return 0;
-//}

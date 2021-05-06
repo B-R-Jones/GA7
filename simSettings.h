@@ -17,8 +17,6 @@ int checkChromLoc();
 void updateChromLoc();
 void setChromLoc(int x);
 int getStrandLength();
-//int getIndividualCount();
-//void setInitialGenerationSize();
 int getGenerationSize();
 int getCycleCount();
 

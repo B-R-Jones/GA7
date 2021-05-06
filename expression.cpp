@@ -34,13 +34,23 @@ nlohmann::json geneExpression(nlohmann::json& individual)
 	{
 		for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
 		{
-			double score{ 0.0 };
+			double score{ individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"] };
 			for (int baseCount = 0; baseCount < getBaseCount(); ++baseCount)
 			{
-				score = individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"];
+				//score = individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"];
 				score = score + expressionValue(individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["bases"].at(baseCount)["baseValue"]);
 			}
 			individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"] = score;
+			if (chromCount > 0)
+			{
+				double act_score{ individual["chromosomes"].at(chromCount - 1)["genes"].at(geneCount)["score"] };
+				double acc_score{ individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["score"] };
+				if (acc_score > act_score)
+				{
+					individual["chromosomes"].at(chromCount - 1)["genes"].at(geneCount)["activated"] = true;
+					individual["chromosomes"].at(chromCount)["genes"].at(geneCount)["accumulation"] = acc_score;
+				}
+			}
 		}
 	}
 	return individual;
@@ -68,13 +78,9 @@ nlohmann::json geneExpressionOld(nlohmann::json& individual)
 
 nlohmann::json cyclePass(nlohmann::json& pop)
 {
-	//nlohmann::json generation;
-	//for (int cycleCount = 0; cycleCount < getCycleCount(); cycleCount++)
-	//{
-		for (int indCount = 0; indCount < getGenerationSize(); indCount++)
-		{
-			geneExpression(pop["individuals"].at(indCount));
-		}
-	//}
+	for (int indCount = 0; indCount < getGenerationSize(); indCount++)
+	{
+		geneExpression(pop["individuals"].at(indCount));
+	}
 	return pop;
 }
