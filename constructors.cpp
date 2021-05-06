@@ -1,11 +1,16 @@
 #include <iostream>
 #include <string>
+#include <iomanip>
+#include <fstream>
 #include <sstream>
 #include <nlohmann/json.hpp>
 #include "simSettings.h"
 #include "creators.h"
+#include "expression.h"
+#include "constructors.h"
 
-nlohmann::json constructBaseJson(int baseID = 0, int baseCount = getBaseCount())
+//using nlohmann::json;
+nlohmann::json constructBaseJson(int baseID, int baseCount)
 {
     if (baseCount < 1)
     {
@@ -18,7 +23,7 @@ nlohmann::json constructBaseJson(int baseID = 0, int baseCount = getBaseCount())
     return base;
 }
 
-nlohmann::json constructGeneJson(int geneID = 0)
+nlohmann::json constructGeneJson(int geneID)
 {
     nlohmann::json gene;
     gene["id"] = geneID;
@@ -31,18 +36,15 @@ nlohmann::json constructGeneJson(int geneID = 0)
     if (checkChromLoc() == 0)
     {
         gene["activated"] = true;
-        //gene["activate_score"];
     }
     else if (checkChromLoc() == 1)
     {
         gene["accumulation"] = 0.0;
-        //gene["accumulation_score"];
     }
-
     return gene;
 }
 
-nlohmann::json constructChromosomeJson(int chromID = -1)
+nlohmann::json constructChromosomeJson(int chromID)
 {
     nlohmann::json chromosome;
     chromosome["id"] = chromID;
@@ -53,7 +55,7 @@ nlohmann::json constructChromosomeJson(int chromID = -1)
     return chromosome;
 }
 
-nlohmann::json constructIndividualJson(int indID = 0)
+nlohmann::json constructIndividualJson(int indID)
 {
     nlohmann::json individual;
     individual["id"] = indID;
@@ -74,3 +76,38 @@ nlohmann::json constructPopulationJson()
     }
     return population;
 }
+
+nlohmann::json constructCycleJson(nlohmann::json& pop, int cycleID)
+{
+    nlohmann::json cycle;
+    cycle["id"] = cycleID;
+    if (cycleID > 0)
+    {
+        cycle["population"].push_back(cyclePass(pop));
+    }
+    else 
+    {
+        cycle["population"].push_back(pop);
+    }
+    return cycle;
+}
+
+nlohmann::json runCycles(nlohmann::json& pop)
+{
+    //nlohmann::nlohmann::json pop;
+    nlohmann::json cycles;
+    for (int cycleID = 0; cycleID < getCycleCount(); ++cycleID)
+    {
+        nlohmann::json cycle(constructCycleJson(pop, cycleID));
+        cycles.push_back(cycle);
+    }
+    return cycles;
+}
+
+//nlohmann::json constructGenJson(nlohmann::json& pop, int genID = 0)
+//{
+//    //nlohmann::json generation;
+//    //generation["id"] = genID;
+//    //generation["id"].at(genID)["cycles"].push_back(runCycles(pop));
+//    return 0;
+//}
