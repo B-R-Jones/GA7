@@ -3,7 +3,6 @@
 #include <nlohmann/json.hpp>
 #include <iomanip>
 #include <fstream>
-#include "creators.h"
 #include "simSettings.h"
 #include "mutators.h"
 #include "parsers.h"
@@ -37,7 +36,6 @@ int main()
         std::cout << "\nDumping test...\n" << test_dump.dump();
     }
 
-    //std::string feedPath('C:\Users\brent\source\repos\GA7\testing')
     std::cout << "Creating base population test file...\n";
     nlohmann::json test(constructPopulationJson());
     std::ofstream testFeed("C:/Users/brent/source/repos/GA7/testing/json/population.json");
@@ -75,5 +73,13 @@ int main()
     nlohmann::json gen(runCycles(pop3));
     std::ofstream genFeed("C:/Users/brent/source/repos/GA7/testing/json/gen_test.json");
     genFeed << std::setw(4) << gen << std::endl;
+
+    std::cout << "Mutation test...\n";
+    nlohmann::json ind2(constructIndividualJson());
+    std::ofstream premutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutate_test1.json");
+    premutateFeed << std::setw(4) << ind2 << std::endl;
+    mutate(ind2);
+    std::ofstream postmutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutate_test2.json");
+    postmutateFeed << std::setw(4) << ind2 << std::endl;
 }
 

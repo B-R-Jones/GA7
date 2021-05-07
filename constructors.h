@@ -1,5 +1,6 @@
 #pragma once
 #include <nlohmann/json.hpp>
+#include "simSettings.h"
 
 using nlohmann::json;
 nlohmann::json constructBaseJson(int x = 0, int z = getBaseCount());

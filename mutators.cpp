@@ -1,31 +1,39 @@
 #include <iostream>
 #include <string>
+#include <nlohmann/json.hpp>
+#include "constructors.h"
 #include "simSettings.h"
-#include "creators.h"
 #include "mutators.h"
 
-std::string mutateDNA(std::string strand)
+void mutate(nlohmann::json& individual)
 {
-	//std::cout << "Old sequence: " << strand << "\n";
-	for (uint16_t i = 0; i < strand.length(); i++)
+	for (int chromID = 0; chromID < getChromosomeCount(); ++chromID)
 	{
-		if (rand() % 100 <= getMutationRate())
+		for (int geneID = 0; geneID < getGeneCount(); ++geneID)
 		{
-			//std::cout << "Index changed: " << i << "\n";
-			strand.replace(i, 1, std::to_string(createBase()));
+			for (int baseID = 0; baseID < getBaseCount(); ++baseID)
+			{
+				int chance = rand() % 100;
+				if (chance < getMutationRate())
+				{
+					nlohmann::json chrom(individual["chromosomes"].at(chromID));
+					nlohmann::json gene(chrom["genes"].at(geneID));
+					nlohmann::json base(gene["bases"].at(baseID));
+					//std::string site("C" + std::to_string(chromID) + "G" + std::to_string(geneID) + "B" + std::to_string(baseID));
+					int prevVal(base["baseValue"]);
+					//std::cout << "Base Value Pre-Mutation Site " << site << ": " << base["baseValue"] << std::endl;
+					while (base["baseValue"] == prevVal)
+					{
+						//std::cout << "Mutating Site " << site << "..." << std::endl;
+						base["baseValue"] = rand() % getBaseCount();
+					}
+					//std::cout << "Base Value Post-Mutation Site " << site << ": " << base["baseValue"] << std::endl;
+					gene["bases"].at(baseID).update(base);
+					chrom["genes"].at(geneID).update(gene);
+					individual["chromosomes"].at(chromID).update(chrom);
+				}
+			}
 		}
 	}
-	//std::cout << "New sequence: " << strand << "\n";
-	return strand;
-	
+	return;
 }
-
-//std::vector<std::string> mutateGeneration(std::vector<std::string> generation)
-//{
-//	std::vector<std::string> mutatedGeneration(0);
-//	for (int i = 0; i < generation.capacity(); i++)
-//	{
-//		mutatedGeneration.push_back(mutateDNA(generation[i]));
-//	}
-//	return mutatedGeneration;
-//}
