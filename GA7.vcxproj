@@ -144,6 +144,7 @@
     <ClCompile Include="expression.cpp" />
     <ClCompile Include="GA7.cpp" />
     <ClCompile Include="parsers.cpp" />
+    <ClCompile Include="propagation.cpp" />
     <ClCompile Include="simSettings.cpp" />
     <ClCompile Include="mutators.cpp" />
   </ItemGroup>
@@ -153,6 +154,7 @@
     <ClInclude Include="expression.h" />
     <ClInclude Include="mutators.h" />
     <ClInclude Include="parsers.h" />
+    <ClInclude Include="propagaton.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="simSettings.h" />
   </ItemGroup>

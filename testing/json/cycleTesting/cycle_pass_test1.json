@@ -8,76 +8,76 @@
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 22.060000000000002
+                            "score": 2.0700000000000003
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 32.42
+                            "score": 3.95
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 21.360000000000003
+                            "score": 3.6500000000000004
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -85,7 +85,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -94,36 +94,36 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 23.270000000000003
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 4,
-                            "score": 27.489999999999995
+                            "score": 0.8
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
                                     "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 4,
+                            "score": 1.12
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -131,39 +131,39 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 22.53
+                            "score": 4.5
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 43.269999999999996
+                            "score": 3.54
                         },
                         {
                             "activated": false,
@@ -173,20 +173,20 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 34.34000000000001
+                            "score": 3.6599999999999997
                         }
                     ],
                     "id": 0
@@ -194,14 +194,14 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 39.35,
+                            "accumulation": 3.32,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -214,13 +214,13 @@
                                 }
                             ],
                             "id": 0,
-                            "score": 39.35
+                            "score": 3.32
                         },
                         {
-                            "accumulation": 45.680000000000014,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -228,62 +228,16 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 45.680000000000014
-                        },
-                        {
-                            "accumulation": 51.38,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 2,
-                            "score": 51.38
-                        },
-                        {
-                            "accumulation": 25.959999999999994,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 25.959999999999994
+                            "score": 2.6100000000000003
                         },
                         {
                             "accumulation": 0.0,
@@ -297,7 +251,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -305,22 +259,68 @@
                                     "id": 3
                                 }
                             ],
-                            "id": 4,
-                            "score": 13.520000000000001
+                            "id": 2,
+                            "score": 0.7100000000000001
                         },
                         {
-                            "accumulation": 44.120000000000005,
+                            "accumulation": 2.15,
+                            "bases": [
+                                {
+                                    "baseValue": 0,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 2.15
+                        },
+                        {
+                            "accumulation": 3.6,
                             "bases": [
                                 {
                                     "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 4,
+                            "score": 3.6
+                        },
+                        {
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -329,53 +329,53 @@
                                 }
                             ],
                             "id": 5,
-                            "score": 44.120000000000005
+                            "score": 4.15
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.79,
                             "bases": [
                                 {
                                     "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 29.929999999999996
+                            "score": 3.79
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 27.37
+                            "score": 1.9300000000000002
                         }
                     ],
                     "id": 1
@@ -388,18 +388,18 @@
                 {
                     "genes": [
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -408,7 +408,7 @@
                                 }
                             ],
                             "id": 0,
-                            "score": 16.53
+                            "score": 3.14
                         },
                         {
                             "activated": false,
@@ -418,76 +418,76 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 47.40999999999999
+                            "score": 4.49
                         },
                         {
                             "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 50.28
+                            "score": 2.58
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 17.060000000000002
+                            "score": 2.4399999999999995
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -495,22 +495,22 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 39.220000000000006
+                            "score": 1.3800000000000001
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -518,12 +518,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 26.61
+                            "score": 2.99
                         },
                         {
                             "activated": false,
@@ -533,26 +533,26 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 30.259999999999994
+                            "score": 4.65
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -560,16 +560,16 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 9.7
+                            "score": 2.4099999999999997
                         }
                     ],
                     "id": 0
@@ -577,18 +577,18 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 31.6,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
                                     "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -597,7 +597,7 @@
                                 }
                             ],
                             "id": 0,
-                            "score": 31.6
+                            "score": 2.6999999999999997
                         },
                         {
                             "accumulation": 0.0,
@@ -607,11 +607,11 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -620,17 +620,17 @@
                                 }
                             ],
                             "id": 1,
-                            "score": 32.18
+                            "score": 2.0500000000000003
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -638,95 +638,72 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 36.510000000000005
+                            "score": 1.37
                         },
                         {
-                            "accumulation": 41.330000000000005,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 41.330000000000005
+                            "score": 1.79
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 4.13,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 34.82999999999999
-                        },
-                        {
-                            "accumulation": 35.91000000000001,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 35.91000000000001
+                            "score": 4.13
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -734,18 +711,41 @@
                                     "id": 3
                                 }
                             ],
-                            "id": 6,
-                            "score": 18.669999999999995
+                            "id": 5,
+                            "score": 1.8899999999999997
                         },
                         {
-                            "accumulation": 22.15999999999999,
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 4.26
+                        },
+                        {
+                            "accumulation": 2.85,
                             "bases": [
                                 {
                                     "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -758,7 +758,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 22.15999999999999
+                            "score": 2.85
                         }
                     ],
                     "id": 1
@@ -771,7 +771,7 @@
                 {
                     "genes": [
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
                                     "baseValue": 1,
@@ -782,22 +782,22 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 35.01
+                            "score": 1.21
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -805,22 +805,22 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 30.979999999999997
+                            "score": 1.6600000000000001
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
@@ -828,108 +828,62 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 40.830000000000005
+                            "score": 2.17
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 14.940000000000003
+                            "score": 2.27
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 24.809999999999995
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 49.18999999999999
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 27.900000000000006
+                            "score": 2.54
                         },
                         {
                             "activated": false,
@@ -939,7 +893,53 @@
                                     "id": 0
                                 },
                                 {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 3.96
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
                                     "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 1.69
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -952,7 +952,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 30.76000000000001
+                            "score": 2.8000000000000003
                         }
                     ],
                     "id": 0
@@ -960,18 +960,18 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.26,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -980,13 +980,36 @@
                                 }
                             ],
                             "id": 0,
-                            "score": 29.249999999999996
+                            "score": 2.26
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.04,
                             "bases": [
                                 {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
                                     "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 1,
+                            "score": 3.04
+                        },
+                        {
+                            "accumulation": 2.31,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -994,7 +1017,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -1002,41 +1025,18 @@
                                     "id": 3
                                 }
                             ],
-                            "id": 1,
-                            "score": 18.110000000000003
-                        },
-                        {
-                            "accumulation": 0.0,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
                             "id": 2,
-                            "score": 33.43
+                            "score": 2.31
                         },
                         {
-                            "accumulation": 39.02,
+                            "accumulation": 3.44,
                             "bases": [
                                 {
                                     "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -1049,44 +1049,21 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 39.02
+                            "score": 3.44
                         },
                         {
-                            "accumulation": 35.11,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
                                     "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 4,
-                            "score": 35.11
-                        },
-                        {
-                            "accumulation": 52.88999999999999,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -1094,18 +1071,18 @@
                                     "id": 3
                                 }
                             ],
-                            "id": 5,
-                            "score": 52.88999999999999
+                            "id": 4,
+                            "score": 2.24
                         },
                         {
-                            "accumulation": 30.05,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
                                     "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -1117,18 +1094,18 @@
                                     "id": 3
                                 }
                             ],
-                            "id": 6,
-                            "score": 30.05
+                            "id": 5,
+                            "score": 3.4699999999999998
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.7299999999999995,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -1140,8 +1117,31 @@
                                     "id": 3
                                 }
                             ],
+                            "id": 6,
+                            "score": 2.7299999999999995
+                        },
+                        {
+                            "accumulation": 2.93,
+                            "bases": [
+                                {
+                                    "baseValue": 0,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
                             "id": 7,
-                            "score": 27.02999999999999
+                            "score": 2.93
                         }
                     ],
                     "id": 1
@@ -1157,11 +1157,11 @@
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -1169,12 +1169,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 21.339999999999996
+                            "score": 2.1500000000000004
                         },
                         {
                             "activated": false,
@@ -1184,20 +1184,20 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 33.769999999999996
+                            "score": 3.86
                         },
                         {
                             "activated": false,
@@ -1211,7 +1211,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -1220,76 +1220,7 @@
                                 }
                             ],
                             "id": 2,
-                            "score": 29.980000000000004
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 25.13
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 4,
-                            "score": 23.050000000000004
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 45.71000000000001
+                            "score": 3.46
                         },
                         {
                             "activated": false,
@@ -1300,6 +1231,75 @@
                                 },
                                 {
                                     "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 2.95
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 4,
+                            "score": 1.29
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 3.57
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -1312,30 +1312,30 @@
                                 }
                             ],
                             "id": 6,
-                            "score": 28.05
+                            "score": 2.88
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 20.77
+                            "score": 3.8100000000000005
                         }
                     ],
                     "id": 0
@@ -1343,10 +1343,10 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 34.900000000000006,
+                            "accumulation": 3.43,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -1358,22 +1358,22 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 34.900000000000006
+                            "score": 3.43
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -1386,13 +1386,13 @@
                                 }
                             ],
                             "id": 1,
-                            "score": 22.459999999999994
+                            "score": 3.18
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -1400,22 +1400,45 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 22.800000000000004
+                            "score": 2.01
                         },
                         {
-                            "accumulation": 33.660000000000004,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
+                                    "baseValue": 0,
+                                    "id": 0
+                                },
+                                {
                                     "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 2.6500000000000004
+                        },
+                        {
+                            "accumulation": 2.74,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -1423,22 +1446,22 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
-                            "id": 3,
-                            "score": 33.660000000000004
+                            "id": 4,
+                            "score": 2.74
                         },
                         {
-                            "accumulation": 38.20000000000001,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -1446,30 +1469,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 4,
-                            "score": 38.20000000000001
-                        },
-                        {
-                            "accumulation": 4.31,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
@@ -1478,17 +1478,17 @@
                                 }
                             ],
                             "id": 5,
-                            "score": 34.56999999999999
+                            "score": 2.7199999999999998
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -1501,13 +1501,13 @@
                                 }
                             ],
                             "id": 6,
-                            "score": 24.01
+                            "score": 2.4200000000000004
                         },
                         {
-                            "accumulation": 25.159999999999997,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -1524,7 +1524,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 25.159999999999997
+                            "score": 2.42
                         }
                     ],
                     "id": 1
@@ -1540,93 +1540,47 @@
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 26.929999999999996
+                            "score": 2.49
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 24.89
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 2,
-                            "score": 23.84
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 13.819999999999999
+                            "score": 3.46
                         },
                         {
                             "activated": false,
@@ -1640,16 +1594,108 @@
                                     "id": 1
                                 },
                                 {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 2,
+                            "score": 3.31
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 3.3999999999999995
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
                                     "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 34.51
+                            "score": 2.2600000000000002
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 2.65
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 1.62
                         },
                         {
                             "activated": false,
@@ -1659,53 +1705,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
                                     "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 38.74999999999999
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 25.099999999999998
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -1718,7 +1718,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 24.42000000000001
+                            "score": 2.82
                         }
                     ],
                     "id": 0
@@ -1726,14 +1726,14 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 35.169999999999995,
+                            "accumulation": 3.42,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -1741,18 +1741,64 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 35.169999999999995
+                            "score": 3.42
                         },
                         {
-                            "accumulation": 42.97,
+                            "accumulation": 3.5299999999999994,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 1,
+                            "score": 3.5299999999999994
+                        },
+                        {
+                            "accumulation": 0.0,
                             "bases": [
                                 {
                                     "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 2,
+                            "score": 1.65
+                        },
+                        {
+                            "accumulation": 4.21,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
@@ -1761,52 +1807,6 @@
                                 },
                                 {
                                     "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 1,
-                            "score": 42.97
-                        },
-                        {
-                            "accumulation": 32.14,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 2,
-                            "score": 32.14
-                        },
-                        {
-                            "accumulation": 21.940000000000005,
-                            "bases": [
-                                {
-                                    "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -1815,21 +1815,21 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 21.940000000000005
+                            "score": 4.21
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.5,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -1838,59 +1838,36 @@
                                 }
                             ],
                             "id": 4,
-                            "score": 25.12
+                            "score": 3.5
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.62,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 23.229999999999993
+                            "score": 3.62
                         },
                         {
-                            "accumulation": 26.98000000000001,
+                            "accumulation": 3.9,
                             "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
                                 {
                                     "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 26.98000000000001
-                        },
-                        {
-                            "accumulation": 0.0,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -1898,7 +1875,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -1906,8 +1883,31 @@
                                     "id": 3
                                 }
                             ],
+                            "id": 6,
+                            "score": 3.9
+                        },
+                        {
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
                             "id": 7,
-                            "score": 22.040000000000003
+                            "score": 1.98
                         }
                     ],
                     "id": 1
@@ -1923,38 +1923,38 @@
                             "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 31.109999999999992
+                            "score": 3.97
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -1963,7 +1963,7 @@
                                 }
                             ],
                             "id": 1,
-                            "score": 25.32
+                            "score": 2.5
                         },
                         {
                             "activated": false,
@@ -1973,26 +1973,26 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 32.720000000000006
+                            "score": 2.98
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -2000,7 +2000,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -2009,30 +2009,53 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 33.71
+                            "score": 2.22
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 10.940000000000001
+                            "score": 2.54
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 3.2900000000000005
                         },
                         {
                             "activated": false,
@@ -2046,49 +2069,26 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
                                     "baseValue": 0,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 28.809999999999995
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 34.330000000000005
+                            "score": 3.27
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -2101,7 +2101,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 14.239999999999998
+                            "score": 1.52
                         }
                     ],
                     "id": 0
@@ -2112,6 +2112,52 @@
                             "accumulation": 0.0,
                             "bases": [
                                 {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 0,
+                            "score": 2.0
+                        },
+                        {
+                            "accumulation": 2.57,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 1,
+                            "score": 2.57
+                        },
+                        {
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
                                     "baseValue": 2,
                                     "id": 0
                                 },
@@ -2120,76 +2166,30 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
                                     "baseValue": 0,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 0,
-                            "score": 18.6
-                        },
-                        {
-                            "accumulation": 25.580000000000002,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 1,
-                            "score": 25.580000000000002
-                        },
-                        {
-                            "accumulation": 0.0,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 30.790000000000006
+                            "score": 2.2
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.29,
                             "bases": [
                                 {
                                     "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -2198,13 +2198,13 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 21.94
+                            "score": 2.29
                         },
                         {
-                            "accumulation": 30.300000000000008,
+                            "accumulation": 4.1899999999999995,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
@@ -2221,7 +2221,7 @@
                                 }
                             ],
                             "id": 4,
-                            "score": 30.300000000000008
+                            "score": 4.1899999999999995
                         },
                         {
                             "accumulation": 0.0,
@@ -2231,7 +2231,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -2239,12 +2239,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 24.779999999999994
+                            "score": 2.24
                         },
                         {
                             "accumulation": 0.0,
@@ -2254,30 +2254,30 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 27.629999999999995
+                            "score": 3.19
                         },
                         {
-                            "accumulation": 44.92000000000001,
+                            "accumulation": 2.7800000000000002,
                             "bases": [
                                 {
                                     "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -2290,7 +2290,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 44.92000000000001
+                            "score": 2.7800000000000002
                         }
                     ],
                     "id": 1
@@ -2306,15 +2306,15 @@
                             "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -2323,7 +2323,30 @@
                                 }
                             ],
                             "id": 0,
-                            "score": 42.66000000000001
+                            "score": 3.58
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 1,
+                            "score": 3.54
                         },
                         {
                             "activated": true,
@@ -2333,34 +2356,11 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
                                     "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 1,
-                            "score": 34.129999999999995
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -2369,30 +2369,7 @@
                                 }
                             ],
                             "id": 2,
-                            "score": 44.160000000000004
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 34.43000000000001
+                            "score": 2.6300000000000003
                         },
                         {
                             "activated": true,
@@ -2402,7 +2379,30 @@
                                     "id": 0
                                 },
                                 {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 1.01
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
                                     "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -2415,36 +2415,13 @@
                                 }
                             ],
                             "id": 4,
-                            "score": 14.199999999999996
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 45.09000000000001
+                            "score": 1.1400000000000001
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -2456,35 +2433,58 @@
                                     "id": 2
                                 },
                                 {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 2.08
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
                                     "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 27.45
+                            "score": 4.83
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
                                     "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 33.46
+                            "score": 2.73
                         }
                     ],
                     "id": 0
@@ -2495,11 +2495,11 @@
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -2507,15 +2507,15 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 13.509999999999998
+                            "score": 3.3
                         },
                         {
-                            "accumulation": 34.96000000000001,
+                            "accumulation": 3.6900000000000004,
                             "bases": [
                                 {
                                     "baseValue": 1,
@@ -2530,41 +2530,41 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 34.96000000000001
+                            "score": 3.6900000000000004
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.74,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 34.87
+                            "score": 2.74
                         },
                         {
-                            "accumulation": 35.129999999999995,
+                            "accumulation": 1.46,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -2572,99 +2572,99 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 35.129999999999995
+                            "score": 1.46
                         },
                         {
-                            "accumulation": 8.71,
+                            "accumulation": 2.84,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 13.479999999999999
+                            "score": 2.84
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.66,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 30.24000000000001
-                        },
-                        {
-                            "accumulation": 37.94,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 37.94
+                            "score": 2.66
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 3.19
+                        },
+                        {
+                            "accumulation": 4.2,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
@@ -2673,7 +2673,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 18.01
+                            "score": 4.2
                         }
                     ],
                     "id": 1
@@ -2701,12 +2701,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 18.25
+                            "score": 2.6100000000000003
                         },
                         {
                             "activated": true,
@@ -2720,7 +2720,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -2729,13 +2729,36 @@
                                 }
                             ],
                             "id": 1,
-                            "score": 26.509999999999998
+                            "score": 2.6799999999999997
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
                                     "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 2,
+                            "score": 3.18
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
@@ -2743,16 +2766,16 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
-                            "id": 2,
-                            "score": 47.48999999999999
+                            "id": 3,
+                            "score": 3.38
                         },
                         {
                             "activated": false,
@@ -2766,72 +2789,26 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 29.68
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 27.490000000000002
+                            "score": 3.8200000000000003
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
                                     "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
                                     "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 12.969999999999999
-                        },
-                        {
-                            "activated": true,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -2839,12 +2816,35 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 5,
+                            "score": 2.35
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 6,
-                            "score": 22.26
+                            "score": 2.25
                         },
                         {
                             "activated": true,
@@ -2854,7 +2854,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -2862,12 +2862,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 35.279999999999994
+                            "score": 1.48
                         }
                     ],
                     "id": 0
@@ -2875,10 +2875,10 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 44.82999999999999,
+                            "accumulation": 2.6599999999999997,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -2886,22 +2886,22 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 44.82999999999999
+                            "score": 2.6599999999999997
                         },
                         {
-                            "accumulation": 35.84999999999999,
+                            "accumulation": 2.8499999999999996,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -2909,7 +2909,7 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
@@ -2918,13 +2918,13 @@
                                 }
                             ],
                             "id": 1,
-                            "score": 35.84999999999999
+                            "score": 2.8499999999999996
                         },
                         {
-                            "accumulation": 29.939999999999998,
+                            "accumulation": 3.35,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
@@ -2932,16 +2932,62 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 46.54
+                            "score": 3.35
+                        },
+                        {
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 3,
+                            "score": 2.8899999999999997
+                        },
+                        {
+                            "accumulation": 0.0,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 4,
+                            "score": 1.88
                         },
                         {
                             "accumulation": 0.0,
@@ -2951,7 +2997,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -2959,72 +3005,26 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 3,
-                            "score": 25.919999999999998
-                        },
-                        {
-                            "accumulation": 34.43,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
                                     "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 4,
-                            "score": 34.43
-                        },
-                        {
-                            "accumulation": 42.88999999999999,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 42.88999999999999
+                            "score": 1.74
                         },
                         {
-                            "accumulation": 30.509999999999987,
+                            "accumulation": 3.2199999999999998,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
@@ -3033,17 +3033,17 @@
                                 }
                             ],
                             "id": 6,
-                            "score": 30.509999999999987
+                            "score": 3.2199999999999998
                         },
                         {
-                            "accumulation": 35.3,
+                            "accumulation": 3.95,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -3056,7 +3056,7 @@
                                 }
                             ],
                             "id": 7,
-                            "score": 35.3
+                            "score": 3.95
                         }
                     ],
                     "id": 1
@@ -3069,165 +3069,119 @@
                 {
                     "genes": [
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 35.84
+                            "score": 1.6800000000000002
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 44.92
+                            "score": 2.0
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
                                     "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 29.459999999999994
+                            "score": 3.96
                         },
                         {
-                            "activated": true,
+                            "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 22.830000000000002
+                            "score": 2.91
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 41.389999999999986
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 1,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 5,
-                            "score": 25.09
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 45.020000000000024
+                            "score": 1.59
                         },
                         {
                             "activated": true,
@@ -3237,11 +3191,11 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -3249,8 +3203,54 @@
                                     "id": 3
                                 }
                             ],
+                            "id": 5,
+                            "score": 1.21
+                        },
+                        {
+                            "activated": true,
+                            "bases": [
+                                {
+                                    "baseValue": 1,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 2.57
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 3
+                                }
+                            ],
                             "id": 7,
-                            "score": 21.050000000000004
+                            "score": 3.5
                         }
                     ],
                     "id": 0
@@ -3258,33 +3258,33 @@
                 {
                     "genes": [
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.96,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 17.82
+                            "score": 2.96
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.26,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
@@ -3292,30 +3292,30 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 22.880000000000003
+                            "score": 3.26
                         },
                         {
-                            "accumulation": 30.279999999999987,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 2
                                 },
                                 {
@@ -3324,17 +3324,17 @@
                                 }
                             ],
                             "id": 2,
-                            "score": 30.279999999999987
+                            "score": 3.27
                         },
                         {
-                            "accumulation": 33.760000000000005,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
@@ -3342,15 +3342,15 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 33.760000000000005
+                            "score": 2.07
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.2800000000000002,
                             "bases": [
                                 {
                                     "baseValue": 0,
@@ -3361,22 +3361,22 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 35.35
+                            "score": 2.2800000000000002
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.14,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
@@ -3384,62 +3384,62 @@
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 18.519999999999992
+                            "score": 3.14
+                        },
+                        {
+                            "accumulation": 3.9000000000000004,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 3.9000000000000004
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
                                     "baseValue": 0,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 22.82
-                        },
-                        {
-                            "accumulation": 49.629999999999995,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 49.629999999999995
+                            "score": 3.03
                         }
                     ],
                     "id": 1
@@ -3455,34 +3455,11 @@
                             "activated": false,
                             "bases": [
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
                                     "baseValue": 2,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 0,
-                            "score": 34.62
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -3490,18 +3467,41 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
-                            "id": 1,
-                            "score": 28.78000000000001
+                            "id": 0,
+                            "score": 2.6100000000000003
                         },
                         {
                             "activated": true,
                             "bases": [
                                 {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
                                     "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 1,
+                            "score": 2.01
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
@@ -3518,17 +3518,17 @@
                                 }
                             ],
                             "id": 2,
-                            "score": 22.480000000000004
+                            "score": 3.42
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
@@ -3541,7 +3541,7 @@
                                 }
                             ],
                             "id": 3,
-                            "score": 21.430000000000007
+                            "score": 2.0899999999999994
                         },
                         {
                             "activated": false,
@@ -3551,11 +3551,11 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
@@ -3564,17 +3564,17 @@
                                 }
                             ],
                             "id": 4,
-                            "score": 31.859999999999992
+                            "score": 3.67
                         },
                         {
-                            "activated": false,
+                            "activated": true,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 2,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -3582,12 +3582,35 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 5,
-                            "score": 42.879999999999995
+                            "score": 2.4299999999999997
+                        },
+                        {
+                            "activated": false,
+                            "bases": [
+                                {
+                                    "baseValue": 2,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 3,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 1,
+                                    "id": 3
+                                }
+                            ],
+                            "id": 6,
+                            "score": 4.79
                         },
                         {
                             "activated": true,
@@ -3597,7 +3620,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -3605,35 +3628,12 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 18.61
-                        },
-                        {
-                            "activated": false,
-                            "bases": [
-                                {
-                                    "baseValue": 3,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 2,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 1,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 7,
-                            "score": 40.54
+                            "score": 0.73
                         }
                     ],
                     "id": 0
@@ -3644,34 +3644,34 @@
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 3
                                 }
                             ],
                             "id": 0,
-                            "score": 26.83000000000001
+                            "score": 2.08
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 2.3,
                             "bases": [
                                 {
                                     "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
@@ -3679,84 +3679,84 @@
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 1,
-                            "score": 23.369999999999994
+                            "score": 2.3
                         },
                         {
-                            "accumulation": 41.31,
+                            "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 0,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 2,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 3
                                 }
                             ],
                             "id": 2,
-                            "score": 41.31
+                            "score": 1.11
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.81,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 2,
+                                    "baseValue": 0,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 3,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 3
                                 }
                             ],
                             "id": 3,
-                            "score": 17.61
+                            "score": 3.81
                         },
                         {
                             "accumulation": 0.0,
                             "bases": [
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 1,
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 3,
+                                    "baseValue": 1,
                                     "id": 1
                                 },
                                 {
-                                    "baseValue": 1,
+                                    "baseValue": 0,
                                     "id": 2
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 2,
                                     "id": 3
                                 }
                             ],
                             "id": 4,
-                            "score": 22.86999999999999
+                            "score": 1.8499999999999999
                         },
                         {
-                            "accumulation": 0.0,
+                            "accumulation": 3.32,
                             "bases": [
                                 {
                                     "baseValue": 3,
@@ -3776,30 +3776,7 @@
                                 }
                             ],
                             "id": 5,
-                            "score": 36.32000000000001
-                        },
-                        {
-                            "accumulation": 39.169999999999995,
-                            "bases": [
-                                {
-                                    "baseValue": 2,
-                                    "id": 0
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 1
-                                },
-                                {
-                                    "baseValue": 0,
-                                    "id": 2
-                                },
-                                {
-                                    "baseValue": 3,
-                                    "id": 3
-                                }
-                            ],
-                            "id": 6,
-                            "score": 39.169999999999995
+                            "score": 3.32
                         },
                         {
                             "accumulation": 0.0,
@@ -3809,7 +3786,7 @@
                                     "id": 0
                                 },
                                 {
-                                    "baseValue": 0,
+                                    "baseValue": 3,
                                     "id": 1
                                 },
                                 {
@@ -3821,8 +3798,31 @@
                                     "id": 3
                                 }
                             ],
+                            "id": 6,
+                            "score": 2.72
+                        },
+                        {
+                            "accumulation": 1.8699999999999999,
+                            "bases": [
+                                {
+                                    "baseValue": 3,
+                                    "id": 0
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 1
+                                },
+                                {
+                                    "baseValue": 2,
+                                    "id": 2
+                                },
+                                {
+                                    "baseValue": 0,
+                                    "id": 3
+                                }
+                            ],
                             "id": 7,
-                            "score": 19.29999999999999
+                            "score": 1.8699999999999999
                         }
                     ],
                     "id": 1

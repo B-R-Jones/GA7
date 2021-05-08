@@ -8,6 +8,7 @@
 #include "parsers.h"
 #include "constructors.h"
 #include "expression.h"
+#include "propagaton.h"
 
 int main()
 {
@@ -43,29 +44,29 @@ int main()
 
     std::cout << "Expression test...\n";
     nlohmann::json ind(constructIndividualJson());
-    std::ofstream indFeed("C:/Users/brent/source/repos/GA7/testing/json/individual_expression_test.json");
+    std::ofstream indFeed("C:/Users/brent/source/repos/GA7/testing/json/expressionTesting/individual_expression_test.json");
     indFeed << std::setw(4) << ind << std::endl;
     
     nlohmann::json pop(constructPopulationJson());
-    std::ofstream popFeed("C:/Users/brent/source/repos/GA7/testing/json/population_expression_test.json");
+    std::ofstream popFeed("C:/Users/brent/source/repos/GA7/testing/json/expressionTesting/population_expression_test.json");
     popFeed << std::setw(4) << pop << std::endl;
 
     std::cout << "Cycle pass test...\n";
     nlohmann::json pop4(constructPopulationJson());
     cyclePass(pop4);
-    std::ofstream cyclePassFeed1("C:/Users/brent/source/repos/GA7/testing/json/cycle_pass_test1.json");
+    std::ofstream cyclePassFeed1("C:/Users/brent/source/repos/GA7/testing/json/cycleTesting/cycle_pass_test1.json");
     cyclePassFeed1 << std::setw(4) << pop4;
     for (int i = 0; i < 10; ++i)
     {
         cyclePass(pop4);
     }
-    std::ofstream cyclePassFeed2("C:/Users/brent/source/repos/GA7/testing/json/cycle_pass_test2.json");
+    std::ofstream cyclePassFeed2("C:/Users/brent/source/repos/GA7/testing/json/cycleTesting/cycle_pass_test2.json");
     cyclePassFeed2 << std::setw(4) << pop4;
 
     std::cout << "Cycles test...\n";
     nlohmann::json pop2(constructPopulationJson());
     nlohmann::json cyclesPkg(constructCycleJson(pop2));
-    std::ofstream cyclesFeed("C:/Users/brent/source/repos/GA7/testing/json/cycles_test.json");
+    std::ofstream cyclesFeed("C:/Users/brent/source/repos/GA7/testing/json/cycleTesting/cycles_test.json");
     cyclesFeed << std::setw(4) << cyclesPkg << std::endl;
 
     std::cout << "Generation test...\n";
@@ -76,10 +77,24 @@ int main()
 
     std::cout << "Mutation test...\n";
     nlohmann::json ind2(constructIndividualJson());
-    std::ofstream premutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutate_test1.json");
+    std::ofstream premutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutationTesting/mutate_test1.json");
     premutateFeed << std::setw(4) << ind2 << std::endl;
     mutate(ind2);
-    std::ofstream postmutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutate_test2.json");
+    std::ofstream postmutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutationTesting/mutate_test2.json");
     postmutateFeed << std::setw(4) << ind2 << std::endl;
+
+    std::cout << "Propogation test...\n";
+    nlohmann::json parentA(constructIndividualJson());
+    std::cout << "Outputting Parent A..." << std::endl;
+    std::ofstream parentA_feed("C:/Users/brent/source/repos/GA7/testing/json/propTesting/parentA.json");
+    parentA_feed << std::setw(4) << parentA << std::endl;
+    nlohmann::json parentB(constructIndividualJson());
+    std::cout << "Outputting Parent B..." << std::endl;
+    std::ofstream parentB_feed("C:/Users/brent/source/repos/GA7/testing/json/propTesting/parentB.json");
+    parentB_feed << std::setw(4) << parentB << std::endl;
+    nlohmann::json prop_pop(propagateGeneration(parentA, parentB));
+    std::cout << "Outputting propagated generation..." << std::endl;
+    std::ofstream prop_pop_feed("C:/Users/brent/source/repos/GA7/testing/json/propTesting/propGen.json");
+    prop_pop_feed << std::setw(4) << prop_pop << std::endl;
 }
 

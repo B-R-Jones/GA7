@@ -33,6 +33,9 @@
     <ClCompile Include="expression.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="propagation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -54,6 +57,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="expression.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="propagaton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
