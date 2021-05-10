@@ -5,6 +5,15 @@
 #include "simSettings.h"
 #include "mutators.h"
 
+void processPopulationMutations(nlohmann::json& pop)
+{
+	for (int indCount = 0; indCount < getGenerationSize(); ++indCount)
+	{
+		nlohmann::json individual(pop["individuals"].at(indCount));
+		mutate(individual);
+	}
+}
+
 void mutate(nlohmann::json& individual)
 {
 	for (int chromID = 0; chromID < getChromosomeCount(); ++chromID)

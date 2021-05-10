@@ -9,6 +9,7 @@
 #include "constructors.h"
 #include "expression.h"
 #include "propagaton.h"
+#include "runSim.h"
 
 int main()
 {
@@ -83,7 +84,7 @@ int main()
     std::ofstream postmutateFeed("C:/Users/brent/source/repos/GA7/testing/json/mutationTesting/mutate_test2.json");
     postmutateFeed << std::setw(4) << ind2 << std::endl;
 
-    std::cout << "Propogation test...\n";
+    std::cout << "Propagation test...\n";
     nlohmann::json parentA(constructIndividualJson());
     std::cout << "Outputting Parent A..." << std::endl;
     std::ofstream parentA_feed("C:/Users/brent/source/repos/GA7/testing/json/propTesting/parentA.json");
@@ -96,5 +97,14 @@ int main()
     std::cout << "Outputting propagated generation..." << std::endl;
     std::ofstream prop_pop_feed("C:/Users/brent/source/repos/GA7/testing/json/propTesting/propGen.json");
     prop_pop_feed << std::setw(4) << prop_pop << std::endl;
+
+    std::cout << "Target creaton testing..." << std::endl;
+    std::cout << "Output 1: " << getTargetStrand() << std::endl;
+    std::cout << "Output 2: " << getTargetStrand() << std::endl;
+
+    std::cout << "Full simulation run..." << std::endl;
+    nlohmann::json simPkg(simPkg());
+    std::ofstream simFeed("C:/Users/brent/source/repos/GA7/testing/json/simPkg.json");
+    simFeed << std::setw(4) << simPkg << std::endl;
 }
 

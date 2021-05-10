@@ -2,6 +2,8 @@
 #include <string>
 #include <chrono>
 #include <vector>
+#include <nlohmann/json.hpp>
+#include "constructors.h"
 #include "simSettings.h"
 
 // Creation management methods below
@@ -97,6 +99,7 @@ void setChromLoc(int chromLocOverride)
 	chromLoc = chromLocOverride;
 }
 
+// Deprecated Strand methods
 int strandLength{ getChromosomeCount() * getGeneCount() * getBaseCount() };
 int getStrandLength()
 {
@@ -108,8 +111,13 @@ void setStrandLength()
 }
 
 // return generation vector elements here
-int generationSize{ 10 };
+int generationCount{ 10 };
+int getGenerationCount()
+{
+	return static_cast<const int>(generationCount);
+}
 
+int generationSize{ 10 };
 int getGenerationSize()
 {
 	return static_cast<const int>(generationSize);
@@ -176,4 +184,25 @@ bool setMutationRate(unsigned char newMutationRate)
 	}
 	std::cout << "New mutation rate could not be set!\n";
 	return false;
+}
+
+// Target management methods below
+nlohmann::json target{ constructIndividualJson() };
+std::string getTargetStrand()
+{
+	std::string strand{ "" };
+	for (int chromCount = 0; chromCount < getChromosomeCount(); ++chromCount)
+	{
+		for (int geneCount = 0; geneCount < getGeneCount(); ++geneCount)
+		{
+			for (int baseCount = 0; baseCount < getBaseCount(); ++baseCount)
+			{
+				nlohmann::json chrom{ target["chromosomes"].at(chromCount) };
+				nlohmann::json gene{ chrom["genes"].at(geneCount) };
+				nlohmann::json base{ gene["bases"].at(baseCount) };
+				strand = strand + std::to_string(base.value("/baseValue"_json_pointer, -1));
+			}
+		}
+	}
+	return strand;
 }

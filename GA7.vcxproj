@@ -142,9 +142,11 @@
   <ItemGroup>
     <ClCompile Include="constructors.cpp" />
     <ClCompile Include="expression.cpp" />
+    <ClCompile Include="fitness.cpp" />
     <ClCompile Include="GA7.cpp" />
     <ClCompile Include="parsers.cpp" />
     <ClCompile Include="propagation.cpp" />
+    <ClCompile Include="runSim.cpp" />
     <ClCompile Include="simSettings.cpp" />
     <ClCompile Include="mutators.cpp" />
   </ItemGroup>
@@ -152,10 +154,12 @@
     <ClInclude Include="..\..\..\C++ Libraries\json-develop\json-develop\include\nlohmann\json.hpp" />
     <ClInclude Include="constructors.h" />
     <ClInclude Include="expression.h" />
+    <ClInclude Include="fitness.h" />
     <ClInclude Include="mutators.h" />
     <ClInclude Include="parsers.h" />
     <ClInclude Include="propagaton.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="runSim.h" />
     <ClInclude Include="simSettings.h" />
   </ItemGroup>
   <ItemGroup>

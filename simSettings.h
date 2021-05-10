@@ -17,6 +17,7 @@ int checkChromLoc();
 void updateChromLoc();
 void setChromLoc(int x);
 int getStrandLength();
+int getGenerationCount();
 int getGenerationSize();
 int getCycleCount();
 
@@ -33,3 +34,6 @@ void setTime();
 // Set options should be an advanced option only
 double getMutationRate();
 bool setMutationRate(unsigned char x);
+
+// Target management methods below; no manual set options
+std::string getTargetStrand();

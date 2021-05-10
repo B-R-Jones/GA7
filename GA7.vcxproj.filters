@@ -36,6 +36,12 @@
     <ClCompile Include="propagation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="fitness.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="runSim.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h">
@@ -60,6 +66,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="propagaton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="fitness.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="runSim.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

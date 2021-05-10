@@ -1,5 +1,6 @@
 #include <iostream>
 #include <nlohmann/json.hpp>
+#include "fitness.h"
 #include "mutators.h"
 #include "propagaton.h"
 #include "simSettings.h"
@@ -34,6 +35,7 @@ nlohmann::json propGenM0(nlohmann::json parentA, nlohmann::json parentB)
 			}
 		}
 		mutate(ind);
+		fitnessEval(ind);
 		pop["individuals"].push_back(ind);
 	}
 	return pop;

@@ -17,7 +17,6 @@ nlohmann::json constructBaseJson(int baseID, int baseCount)
     }
     nlohmann::json base;
     base["id"] = baseID;
-    //base["baseValue"] = createBase();
     base["baseValue"] = rand() % getBaseCount();
     return base;
 }
@@ -58,11 +57,13 @@ nlohmann::json constructIndividualJson(int indID)
 {
     nlohmann::json individual;
     individual["id"] = indID;
+    individual["fitness"] = 0.0;
     for (int chromID = 0; chromID < getChromosomeCount(); ++chromID)
     {
         setChromLoc(chromID);
         individual["chromosomes"].push_back(constructChromosomeJson(chromID));
     }
+    //fitnessEval(individual)
     return individual;
 }
 
