@@ -3,6 +3,7 @@
 #include <nlohmann/json.hpp>
 #include <iomanip>
 #include <fstream>
+#include <cpprest/http_listener.h>
 #include "simSettings.h"
 #include "mutators.h"
 #include "parsers.h"
@@ -104,7 +105,7 @@ int main()
 
     std::cout << "Full simulation run..." << std::endl;
     nlohmann::json simPkg(simPkg());
-    std::ofstream simFeed("C:/Users/brent/source/repos/GA7/testing/json/simPkg.json");
+    std::ofstream simFeed("C:/Users/brent/source/repos/GA7/testing/json/sim/simPkg.json");
     simFeed << std::setw(4) << simPkg << std::endl;
 }
 

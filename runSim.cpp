@@ -1,4 +1,6 @@
 #include <iostream>
+#include <iomanip>
+#include <fstream>
 #include <nlohmann/json.hpp>
 #include "constructors.h"
 #include "fitness.h"
@@ -9,12 +11,12 @@
 nlohmann::json simPkg()
 {
 	nlohmann::json simPkg;
-	nlohmann::json generations;
 	nlohmann::json pop;
 	for (int i = 0; i < getGenerationCount(); ++i)
 	{
 		std::cout << "Processing generation " << std::to_string(i) << "..." << std::endl;
-		generations["id"] = i;
+		nlohmann::json generation;
+		generation["id"] = i;
 		if (i == 0)
 		{
 			pop = constructPopulationJson();
@@ -27,10 +29,10 @@ nlohmann::json simPkg()
 			pop = propagateGeneration(parentA, parentB);
 			processPopulationMutations(pop);
 		};
-		nlohmann::json cycles;
-		cycles.push_back(runCycles(pop));
-		generations["cycles"].push_back(cycles);
-		simPkg.push_back(generations);
+		runGenCycles(generation, pop);
+		std::ofstream genFeed("C:/Users/brent/source/repos/GA7/testing/json/sim/simGen" + std::to_string(i) + ".json");
+		genFeed << std::setw(4) << generation << std::endl;
+		simPkg["generations"].push_back(generation);
 	}
 	return simPkg;
 }

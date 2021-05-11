@@ -102,3 +102,13 @@ nlohmann::json runCycles(nlohmann::json& pop)
     }
     return cycles;
 }
+
+void runGenCycles(nlohmann::json& generation, nlohmann::json& pop)
+{
+    //nlohmann::json cycles;
+    for (int cycleID = 0; cycleID < getCycleCount(); ++cycleID)
+    {
+        nlohmann::json cycle(constructCycleJson(pop, cycleID));
+        generation["cycles"].push_back(cycle);
+    }
+}

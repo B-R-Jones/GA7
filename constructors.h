@@ -10,3 +10,4 @@ nlohmann::json constructIndividualJson(int x = 0);
 nlohmann::json constructPopulationJson();
 nlohmann::json constructCycleJson(nlohmann::json& x, int y = 0);
 nlohmann::json runCycles(nlohmann::json& x);
+void runGenCycles(nlohmann::json& x, nlohmann::json& y);
